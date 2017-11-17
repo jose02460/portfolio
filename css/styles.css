@@ -1,0 +1,44 @@
+
+.date {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.hobbies {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.activities {
+  font-weight: bold;
+  font-size: 30px;
+}
+.nike{
+ width: 350px;
+ height: 300px;
+ float: right;
+}
+.nike2{
+  width: 350px;
+  height: 300px;
+  float: left;
+}
+.nike3{
+  width: 400px;
+  height: 300px;
+  float: none;
+  padding-left: 40px;
+
+}
+.jose{
+  font-style: italic;
+
+}
+.col-md-4{
+  font-size: 11px;
+}
+.jumbotron{
+  background-color: orange;
+
+}
+Backround-color: black;
