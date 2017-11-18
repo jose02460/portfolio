@@ -1,14 +1,11 @@
-
 .date {
   font-weight: bold;
-  font-size: 30px;
+  font-size: 40px;
 }
-
 .hobbies {
   font-weight: bold;
   font-size: 30px;
 }
-
 .activities {
   font-weight: bold;
   font-size: 30px;
@@ -24,21 +21,30 @@
   float: left;
 }
 .nike3{
-  width: 400px;
-  height: 300px;
+  width: 800px;
+  height: 500px;
   float: none;
   padding-left: 40px;
-
-}
-.jose{
-  font-style: italic;
-
 }
 .col-md-4{
   font-size: 11px;
 }
 .jumbotron{
   background-color: orange;
-
 }
-Backround-color: black;
+.nikehq{
+  border: 2px;
+}
+.bg-success{
+  font-weight: bold;
+h1 {
+  color: orange;
+}
+.diff.lang{
+  font-style: italic;
+}
+.vapormax{
+  width: 600px;
+  height: 400px;
+margin-left: 125px;
+}
