@@ -1,7 +1,7 @@
 # _{Portfolio}_
 
 #### _{Portfolio about me. Friday's Project.}, {11.17.17}_
-*https://jose02460.github.io/portfolio
+https://jose02460.github.io/portfolio
 #### By _**{Jose Rodriguez}**_
 
 ## Description
