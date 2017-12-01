@@ -1,8 +1,8 @@
 # Portfolio
 
-#### _{Portfolio about me. Friday's Project.}, {11.17.17}_
+#### _Portfolio about me. Friday's Project., 11.17.17_
 https://jose02460.github.io/portfolio
-#### By _**{Jose Rodriguez}**_
+#### By _**Jose Rodriguez**_
 
 ## Description
 
