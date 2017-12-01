@@ -25,6 +25,7 @@
   height: 600px;
   float: left;
   padding-left: 50px;
+  margin-left: auto;
 }
 .col-md-4{
   font-size: 11px;
