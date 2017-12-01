@@ -6,25 +6,25 @@ https://jose02460.github.io/portfolio
 
 ## Description
 
-_{This webpage page talks about my educational, and work experience. It talks about my hobbies, skills, and my future.}_
+_This webpage page talks about my educational, and work experience. It talks about my hobbies, skills, and my future._
 
 ## Setup/Installation Requirements
 
 * _cloned the repo
-_{https://github.com/jose02460/portfolio.git}_
+_https://github.com/jose02460/portfolio.git_
 
 ## Contact  
 
-_{Any questions, feel free to contact me!}_
+_Any questions, feel free to contact me!_
 
 ## Technologies Used
 
-_{HTML}_
-_{CSS}_
-_{bootstrap}_
+_HTML_
+_CSS_
+_bootstrap_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*Determine the license under which this application can be used.  See below for more details on licensing.*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 **_List of contributors or company name_**
