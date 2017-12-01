@@ -21,10 +21,10 @@
   float: left;
 }
 .nike3{
-  width: 800px;
-  height: 500px;
-  float: none;
-  padding-left: 40px;
+  width: 1100px;
+  height: 600px;
+  float: left;
+  padding-left: 50px;
 }
 .col-md-4{
   font-size: 11px;
@@ -42,9 +42,4 @@ h1 {
 }
 .diff.lang{
   font-style: italic;
-}
-.vapormax{
-  width: 600px;
-  height: 400px;
-margin-left: 125px;
 }
